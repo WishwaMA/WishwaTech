@@ -1,0 +1,32 @@
+.footer{
+    padding: 10px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+#wp{
+    margin-top: 10px;
+    height: 50px;
+}
+
+#wp1{
+    margin-left: 20px;
+    height: 50px;
+}
+
+#wp2{
+    margin-left: 20px;
+    height: 50px;
+}
+
+#wp3{
+    margin-left: 20px;
+    height: 50px;
+}
+
+#wp4{
+    margin-left: 20px;
+    margin-top: 10px;
+    height: 50px;
+}
