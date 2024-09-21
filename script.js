@@ -74,3 +74,8 @@ document.getElementById("hel").onclick = function() {
 document.getElementById("agri").onclick = function() {
     window.location.href = "agri.html";
 }
+
+//s.lit
+document.getElementById("S.lit").onclick = function() {
+    window.location.href = "S,lit.html";
+}
