@@ -76,6 +76,6 @@ document.getElementById("agri").onclick = function() {
 }
 
 //s.lit
-document.getElementById("S.lit").onclick = function() {
-    window.location.href = "sinhalaLi.html";
+document.getElementById("lit").onclick = function() {
+    window.location.href = "agri.html";
 }
